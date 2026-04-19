@@ -38,9 +38,18 @@
 
 ---
 
-### 📊 Stats
+### 🛠️ Featured Projects
 
-![Sium's GitHub stats](https://github-readme-stats.vercel.app/api?username=siumahameed&show_icons=true&theme=gruvbox)-->
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Sales Trend Analysis** | Exploratory Data Analysis (EDA) on retail data to identify growth drivers and customer patterns. | `Python` `Pandas` `Plotly` | [View Repo](https://github.com/siumahameed/your-repo-name) |
+| **Statistical Modeling** | Academic projects focused on Multiple Linear Regression and hypothesis testing. | `SPSS` `Statistics` | [View Repo](https://github.com/siumahameed/your-repo-name) |
+| **Pizza Sales Dashboard** | A deep dive into sales performance using SQL for data extraction and Python for visualization. | `SQL` `Matplotlib` `Seaborn` | [View Repo](https://github.com/siumahameed/your-repo-name) |
+
+---
+
+### 💻 GitHub Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siumahameed&layout=compact&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
