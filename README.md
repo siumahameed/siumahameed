@@ -42,16 +42,15 @@
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Sales Trend Analysis** | Exploratory Data Analysis (EDA) on retail data to identify growth drivers and customer patterns. | `Python` `Pandas` `Plotly` | [View Repo](https://github.com/siumahameed/your-repo-name) |
-| **Statistical Modeling** | Academic projects focused on Multiple Linear Regression and hypothesis testing. | `SPSS` `Statistics` | [View Repo](https://github.com/siumahameed/your-repo-name) |
-| **Pizza Sales Dashboard** | A deep dive into sales performance using SQL for data extraction and Python for visualization. | `SQL` `Matplotlib` `Seaborn` | [View Repo](https://github.com/siumahameed/your-repo-name) |
+| **EDA Projects** | Exploratory Data Analysis (EDA) on retail data to identify growth drivers and customer patterns. | `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` | [View Repo](https://github.com/siumahameed/Eda-projects-basic-) |
+| **Python Noob Projects** | Academic projects focused on Multiple Linear Regression and hypothesis testing. | `Python` `Libraries` | [View Repo](https://github.com/siumahameed/Python_basic_projects_noob) |
+| **Pizza Sales Project** | A deep dive into sales performance using SQL for data extraction and Python for visualization. | `SQL` `Matplotlib` `Seaborn` | [View Repo](https://github.com/siumahameed/Pizza-sales-project-with-SQL) |
+| **Store Sales Dashboard** | A deep dive into sales performance using SQL for data extraction and Python for visualization. | `Excel` | [View Repo](https://github.com/siumahameed/Indian-Store-Sales-Analysis-By-Excel.) |
 
 ---
 
 ### 💻 GitHub Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siumahameed&layout=compact&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
@@ -61,8 +60,5 @@
 I began my path as a Statistics student, diving deep into the mathematical foundations of data. What started with academic research and SPSS lab tasks quickly evolved into a passion for building actionable insights. I taught myself Python and advanced libraries like Pandas, Seaborn, and TensorFlow, turning raw numbers into visual stories.
 
 This drive led me into the world of freelancing, where I’ve spent my time optimizing business trends and solving complex data challenges on platforms like Upwork and Fiverr. But the journey doesn't stop at analysis. I’m currently pushing past the "safe" boundaries of standard reporting to build more intelligent, predictive models. My goal is to stay "uncomfortable" and constantly learning and evolving from a  Data Scientest into a specialized Machine Learning professional.
-
 </details>
-[website]: ---
-[youtube]: ----
-[x]: -----
+-
