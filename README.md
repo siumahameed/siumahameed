@@ -42,10 +42,10 @@
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **EDA Projects** | Exploratory Data Analysis (EDA) on retail data to identify growth drivers and customer patterns. | `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` | [View Repo](https://github.com/siumahameed/Eda-projects-basic-) |
-| **Python Noob Projects** | Academic projects focused on Multiple Linear Regression and hypothesis testing. | `Python` `Libraries` | [View Repo](https://github.com/siumahameed/Python_basic_projects_noob) |
-| **Pizza Sales Project** | A deep dive into sales performance using SQL for data extraction and Python for visualization. | `SQL` `Matplotlib` `Seaborn` | [View Repo](https://github.com/siumahameed/Pizza-sales-project-with-SQL) |
-| **Store Sales Dashboard** | A deep dive into sales performance using SQL for data extraction and Python for visualization. | `Excel` | [View Repo](https://github.com/siumahameed/Indian-Store-Sales-Analysis-By-Excel.) |
+| **EDA Projects** | Few Exploratory Data Analysis (EDA) projects which I did during learning data preprocessing. | `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` | [View Repo](https://github.com/siumahameed/Eda-projects-basic-) |
+| **Python Noob Projects** | Python basic game lke projects to create interest in learning. | `Python` `Libraries` | [View Repo](https://github.com/siumahameed/Python_basic_projects_noob) |
+| **Pizza Sales Project** |A project on pizza sales data | `SQL` `Matplotlib` `Seaborn` | [View Repo](https://github.com/siumahameed/Pizza-sales-project-with-SQL) |
+| **Store Sales Dashboard** | A deep dive into sales performance using Excel | `Excel` | [View Repo](https://github.com/siumahameed/Indian-Store-Sales-Analysis-By-Excel.) |
 
 ---
 
