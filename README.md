@@ -42,6 +42,7 @@
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **Machine Learning Projects** | I am listing some of my basic machine learning projects here. This repo will help to understand and practice ml project from the beginning | `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit Learn` | [View Repo](https://github.com/siumahameed/ml_projects) |
 | **EDA Projects** | Few Exploratory Data Analysis (EDA) projects which I did during learning data preprocessing. | `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` | [View Repo](https://github.com/siumahameed/Eda-projects-basic-) |
 | **Python Noob Projects** | Python basic game lke projects to create interest in learning. | `Python` `Libraries` | [View Repo](https://github.com/siumahameed/Python_basic_projects_noob) |
 | **Pizza Sales Project** |A project on pizza sales data | `SQL` `Matplotlib` `Seaborn` | [View Repo](https://github.com/siumahameed/Pizza-sales-project-with-SQL) |
